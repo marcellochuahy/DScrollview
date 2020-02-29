@@ -1,0 +1,6 @@
+framework module Pods_DScrollview_Tests {
+  umbrella header "Pods-DScrollview_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

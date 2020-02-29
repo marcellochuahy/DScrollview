@@ -1,0 +1,22 @@
+{
+  "name": "DScrollview",
+  "version": "0.1.0",
+  "summary": "A short description of DScrollview.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/marcellochuahy/DScrollview",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "marcellochuahy": "marcello@chuahy.org"
+  },
+  "source": {
+    "git": "https://github.com/marcellochuahy/DScrollview.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DScrollview/Classes/**/*"
+}
